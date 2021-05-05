@@ -1,5 +1,7 @@
 transmission blocklist
 
+forked from https://github.com/g48107/transmission-blocklist
+
 release
 
 - https://github.com/sayomelu/transmission-blocklist/raw/release/blocklist.gz
