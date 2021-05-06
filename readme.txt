@@ -2,10 +2,9 @@ transmission blocklist
 
 forked from https://github.com/g48107/transmission-blocklist
 
-release
+release to use in transmission
 
-- https://github.com/sayomelu/transmission-blocklist/raw/release/blocklist.gz
-- https://cdn.jsdelivr.net/gh/sayomelu/transmission-blocklist@release/blocklist.gz
+- https://github.com/snow3461/transmission-blocklist/raw/release/blocklist.gz
 
 thank
 
